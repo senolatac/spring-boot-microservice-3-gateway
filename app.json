@@ -1,0 +1,8 @@
+{
+  "name": "sha-microservice-gateway",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
